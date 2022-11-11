@@ -16,7 +16,7 @@ def countLines(path):
     fReadme.write("S(" + str(count) + ")\n")
     return count
 
-next_goal = 100
+next_goal = 500
 
 total = 0
 fReadme.write("## Categories")
@@ -36,8 +36,5 @@ if (total >= next_goal):
     print(total, "GOAL REACHED")
 else:
     print("Total: ", total, " and ", (next_goal - total), "FOR THE GOAL")
-
-
-
 
 fReadme.write("\n# Total \n" + str(total))
