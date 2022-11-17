@@ -1,4 +1,7 @@
 ## Categories
+## EXCEPTIONS
+exceptions-11-17-2022.java(50), S(50)
+
 ## ERRORS
 errors-11-11-2022.java(137), S(137)
 
@@ -9,4 +12,4 @@ instances-11-11-2022.java(104), inheritance-11-11-2022.java(261), S(365)
 S(0)
 
 # Total 
-502
+552
